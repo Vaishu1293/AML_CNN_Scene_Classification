@@ -1,0 +1,10 @@
+Epoch 1/10 - Training Loss: 2.5342
+Epoch 2/10 - Training Loss: 1.9337
+Epoch 3/10 - Training Loss: 1.7162
+Epoch 4/10 - Training Loss: 1.5617
+Epoch 5/10 - Training Loss: 1.4452
+Epoch 6/10 - Training Loss: 1.3501
+Epoch 7/10 - Training Loss: 1.2657
+Epoch 8/10 - Training Loss: 1.1892
+Epoch 9/10 - Training Loss: 1.1093
+Epoch 10/10 - Training Loss: 1.0413

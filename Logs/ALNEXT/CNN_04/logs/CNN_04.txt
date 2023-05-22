@@ -1,0 +1,15 @@
+Epoch 1/15 - Training Loss: 2.3040
+Epoch 2/15 - Training Loss: 1.9948
+Epoch 3/15 - Training Loss: 1.8755
+Epoch 4/15 - Training Loss: 1.7811
+Epoch 5/15 - Training Loss: 1.7043
+Epoch 6/15 - Training Loss: 1.6333
+Epoch 7/15 - Training Loss: 1.5763
+Epoch 8/15 - Training Loss: 1.5178
+Epoch 9/15 - Training Loss: 1.4680
+Epoch 10/15 - Training Loss: 1.4019
+Epoch 11/15 - Training Loss: 1.3798
+Epoch 12/15 - Training Loss: 1.3304
+Epoch 13/15 - Training Loss: 1.2794
+Epoch 14/15 - Training Loss: 1.2480
+Epoch 15/15 - Training Loss: 1.2086

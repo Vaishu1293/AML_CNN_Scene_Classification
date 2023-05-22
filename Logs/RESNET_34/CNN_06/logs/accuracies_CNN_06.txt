@@ -1,0 +1,4 @@
+Top-1 Accuracy - Validation: 74.24%, Test: 74.24%
+Top-5 Accuracy - Validation: 94.85%, Test: 94.85%
+Top-10 Accuracy - Validation: 94.85%, Test: 94.85%
+Top-20 Accuracy - Validation: 94.85%, Test: 94.85%
